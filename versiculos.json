@@ -1,0 +1,32 @@
+[
+    {
+      "libro": "Juan",
+      "capitulo": 3,
+      "versiculo": 16,
+      "texto": "Porque de tal manera amó Dios al mundo, que dio a su Hijo unigénito, para que todo aquel que cree en él no se pierda, sino que tenga vida eterna."
+    },
+    {
+      "libro": "Salmo",
+      "capitulo": 23,
+      "versiculo": 1,
+      "texto": "El Señor es mi pastor; nada me faltará."
+    },
+    {
+      "libro": "Mateo",
+      "capitulo": 28,
+      "versiculo": 19,
+      "texto": "Por tanto, id y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo."
+    },
+    {
+      "libro": "Proverbios",
+      "capitulo": 3,
+      "versiculo": 5,
+      "texto": "Confía en el Señor con todo tu corazón y no te apoyes en tu propia inteligencia."
+    },
+    {
+      "libro": "Romanos",
+      "capitulo": 8,
+      "versiculo": 28,
+      "texto": "Y sabemos que en todas las cosas interviene Dios para bien de los que le aman, de los que han sido llamados conforme a su propósito."
+    }
+]
